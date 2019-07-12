@@ -1,0 +1,23 @@
+{
+  "name": "karanja1victor-longest",
+  "version": "0.1.0",
+  "description": "longest word detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanja1victor/longest.git"
+  },
+  "keywords": [
+    "longestWord",
+    "coderByte"
+  ],
+  "author": "Victor Karanja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanja1victor/longest/issues"
+  },
+  "homepage": "https://github.com/karanja1victor/longest#readme"
+}
