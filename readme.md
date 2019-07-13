@@ -1,4 +1,4 @@
-# LongestWord object (with palindrome checker)
+# LongestWord object (with longest word checker)
 
 This is a sample NPM module created in [*Learn Enough Javascript to be Dangerous*](https://www.learnenough.com/course/javascript) by Victor Karanja.
 
